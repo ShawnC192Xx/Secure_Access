@@ -69,4 +69,4 @@ Create some sample file shares with various permissions
 6. **On DC-1, make <someuser> a member of the “ACCOUNTANTS” Security Group**
 7. **Sign back into Client-1 as <someuser> and try to access the “accounting” share in \\DC-1\**
 
-In the [next tutorial](https://github.com/fnabeel/Building-Intuition-for-DNS),  we will go over settingup DNS. You may keep the virtual machine from this lab and continue with the next tutorial. 
+In the [next tutorial](https://github.com/bishar08/Learning_about_DNS),  we will go over settingup DNS. You may keep the virtual machine from this lab and continue with the next tutorial. 
