@@ -1,4 +1,7 @@
-![image](https://imgur.com/ZMFJ2ns)
+<p align="center">
+<img src="https://i.imgur.com/ZMFJ2ns.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
 
 <h1>Network File Shares and Permissions</h1>
 Welcome back! In this tutorial, We will create folders in DC-1 from the previous Tutorial. <br />
